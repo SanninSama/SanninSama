@@ -27,7 +27,12 @@ Com meus conhecimentos em software 🧩 e experiência em hardware 🗿 acho que
  <a/>
 </div>
           
-          
+---
+
+
+<div>
+<img height="200em" align="leaft" src= https://github-readme-stats.vercel.app/api/top-langs/?username=SanninSama&show_icons=true&theme=tokyonight&count_private=true
+</div>
           
           
           
