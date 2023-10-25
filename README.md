@@ -21,7 +21,7 @@ Com meus conhecimentos em software 🧩 e experiência em hardware 🗿 acho que
 
 ---
 
-<div id="badges">
+<div id="badges" align="center">
  <a href ="https://www.linkedin.com/in/eduardo-m-f-o/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  <a/>
