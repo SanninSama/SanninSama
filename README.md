@@ -1,4 +1,4 @@
-<image src = "banner.gif" width= "310px" align = "right" >
+<image src = "banner.gif" width= "300px" align = "right" >
 
 # Bem vindo ao meu GitHub 🤗
 
@@ -31,7 +31,7 @@ Com meus conhecimentos em software 🧩 e experiência em hardware 🗿 é poss�
 
 
 <div>
-<img height="200em" align="leaft" src= https://github-readme-stats.vercel.app/api/top-langs/?username=SanninSama&show_icons=true&theme=tokyonight&count_private=true
+<img width="350px" align="leaft" src= https://github-readme-stats.vercel.app/api/top-langs/?username=SanninSama&show_icons=true&theme=tokyonight&count_private=true
 </div>
           
           
