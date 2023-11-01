@@ -2,9 +2,9 @@
 
 # Bem vindo ao meu GitHub 🤗
 
-- Sou desenvolvedor de sofwares em geral!
+- Sou desenvolvedor de softwares em geral!
 - Amo fazer apps mobile 📲 e mexer com cloud computing ☁️
-- Minha área é praticamente fazer qualquer coisa de back ou front end 🤖
+- Meu objetivo é ser fullstack  🤖
 
 Apaixonado por tudo que faço 💕 meu sonho é ajudar as pessoas 🩺 
 
